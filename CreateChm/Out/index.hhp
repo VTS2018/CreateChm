@@ -1,0 +1,15 @@
+[OPTIONS]
+Title=我的CHM
+Compatibility=1.1 or later
+Compiled file=C:\Users\Administrator\Desktop\最终21.CHM
+Contents file=index.hhc
+Index file=index.hhk
+Default topic=F:\Desktop\Desktop\Desktop\Code\CreateChm\CreateChm\bin\Debug\html\index.html
+Display compile progress=YES
+Default Window=Main
+
+[WINDOWS]
+Main="我的CHM","index.hhc","index.hhk","F:\Desktop\Desktop\Desktop\Code\CreateChm\CreateChm\bin\Debug\html\index.html","F:\Desktop\Desktop\Desktop\Code\CreateChm\CreateChm\bin\Debug\html\index.html",,,,,0x20,180,0x104E, [80,60,720,540],0x0,0x0,,,,,0
+
+[FILES]
+F:\Desktop\Desktop\Desktop\Code\CreateChm\CreateChm\bin\Debug\html\日韩演员\201.html
